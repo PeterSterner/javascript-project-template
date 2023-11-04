@@ -10,4 +10,5 @@ function draw () {
   text('Velkommen til Programmering', width / 2, height / 2)
 }
 
-export { setup, draw }
+window.setup = setup
+window.draw = draw
