@@ -2,14 +2,7 @@
 
 Dette er et JavaScript-projekt, som er sat op med en simpel struktur, så det er let at starte et nyt projekt.
 
-## Værktøjer
-
-- [Node.js](https://nodejs.org/en/)
-- [Visual Studio Code](https://code.visualstudio.com/)
-
-
-
-## Opsætning
+# Opsætning
 
 - Download og installér Docker: [https://www.docker.com/get-started/](https://www.docker.com/get-started/)
 - Download og installér Visual Studio Code: [https://code.visualstudio.com/](https://code.visualstudio.com/)
