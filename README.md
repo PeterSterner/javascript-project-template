@@ -1,4 +1,4 @@
-# JavaScript Project Template
+# JavaScript-projekt-skabelon
 
 Dette er et JavaScript-projekt, som er sat op med en simpel struktur, så det er let at starte et nyt projekt.
 
