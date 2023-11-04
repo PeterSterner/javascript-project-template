@@ -6,6 +6,7 @@
   "include": [
     "src/**/*.js",
     "node_modules/@types/**/*.d.ts",
-    "sketch.js"
+    "sketch.js",
+    "console.js"
   ]
 }
