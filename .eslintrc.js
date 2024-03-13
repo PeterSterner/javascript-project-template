@@ -3,14 +3,13 @@ module.exports = {
     browser: true,
     es2021: true
   },
-  extends: [
-    'standard'
-  ],
+  extends: ['standard'],
   parserOptions: {
     ecmaVersion: 'latest',
     sourceType: 'module'
   },
   rules: {
+    'space-before-function-paren': 'off'
   },
 
   globals: {
@@ -212,6 +211,7 @@ module.exports = {
     deviceMoved: 'readonly',
     deviceTurned: 'readonly',
     deviceShaken: 'readonly',
-    windowResized: 'readonly'
+    windowResized: 'readonly',
+    color: 'readonly'
   }
 }
